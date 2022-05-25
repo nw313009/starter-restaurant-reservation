@@ -7,6 +7,7 @@ import Layout from "./layout/Layout";
  * @returns {JSX.Element}
  */
 function App() {
+  //commit
   return (
     <Switch>
       <Route path="/">
